@@ -27,6 +27,18 @@ site:
           title: MANUAL TECNICO
           path: product-docs
           default: true
-          hidden: true
           content:
             directory: ./manual-tecnico/product-docs
+    - type: section
+      key: section-3
+      title: MANUAL DE INSTALACIÓN
+      path: manual-de-instalacion
+      children:
+        - type: space
+          key: space-3
+          title: Product Docs
+          path: product-docs
+          default: true
+          draft: true
+          content:
+            directory: ./manual-de-instalacion/product-docs
