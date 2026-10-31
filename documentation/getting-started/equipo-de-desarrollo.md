@@ -4,6 +4,7 @@
 * Josepth Nathaniel García Jacinto
 * Emelyn Nohelia de León González
 * Yesenia Marina Catalán Reyes
+* German Guillermo Jose Arriola Guzmán
 
 #### Tecnologías utilizadas
 
