@@ -30,14 +30,14 @@ site:
             directory: ./manual-tecnico/product-docs
     - type: section
       key: section-3
-      title: Copy of MANUAL TECNICO
+      title: MANUAL TECNICO I
       path: copy-of-manual-tecnico
+      description: ""
       children:
         - type: space
           key: space-3
-          title: Copy of Product Docs
-          path: copy-of-product-docs
+          title: Documentation
+          path: documentation
           default: true
-          draft: true
           content:
-            directory: ./copy-of-manual-tecnico/copy-of-product-docs
+            directory: ./documentation
