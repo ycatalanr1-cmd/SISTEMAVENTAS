@@ -26,7 +26,6 @@ Las versiones siguientes corresponden a las referencias declaradas en los archiv
 | MassTransit                                   |              8.5.10 | Abstracción de publicación y consumo de mensajes.         |
 | MassTransit.RabbitMQ                          |              8.5.10 | Transporte de mensajes RabbitMQ.                          |
 | MongoDB.Driver                                |              3.12.0 | Acceso a MongoDB para historiales.                        |
-| QuestPDF                                      |            2026.9.1 | Construcción de documentos PDF.                           |
 | Swashbuckle.AspNetCore                        |              10.2.3 | Generación de documentación Swagger/OpenAPI.              |
 
 ### 5.2 Frontend

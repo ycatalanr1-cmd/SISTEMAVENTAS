@@ -1,6 +1,6 @@
 ---
 description: >-
-  Presenta una visión general de SistemaVentas, suss principioes funcionalidades
+  Presenta una visión general de SistemaVentas, sus principales funcionalidades
   y los procesos que permite gestionar dentro de la organización.
 icon: bolt
 ---

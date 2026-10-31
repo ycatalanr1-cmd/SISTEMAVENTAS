@@ -9,7 +9,7 @@
 * [ARQUITECTURA DE SOFTWARE](contenido/arquitectura-de-software.md)
 * [ESTRUCTURA DEL REPOSITORIO](contenido/estructura-del-repositorio.md)
 * [TECNOLOGÍAS, FRAMEWORKS Y DEPENDENCIAS](contenido/tecnologias-frameworks-y-dependencias.md)
-* [MOELO DE DATOS Y PERSISTENCIA](contenido/moelo-de-datos-y-persistencia.md)
+* [MODELO DE DATOS Y PERSISTENCIA](contenido/modelo-de-datos-y-persistencia.md)
 * [LÓGICA DE NEGOCIO Y PROCESOS PRINCIPALES](contenido/logica-de-negocio-y-procesos-principales.md)
 * [FRONTEND ANGULAR](contenido/frontend-angular.md)
 * [API REST](contenido/api-rest.md)
