@@ -27,5 +27,6 @@ site:
           title: MANUAL TECNICO
           path: product-docs
           default: true
+          hidden: true
           content:
             directory: ./manual-tecnico/product-docs
