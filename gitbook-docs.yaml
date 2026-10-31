@@ -20,10 +20,11 @@ site:
       key: section-2
       title: MANUAL TECNICO
       path: manual-tecnico
+      description: ""
       children:
         - type: space
           key: space-2
-          title: Product Docs
+          title: MANUAL TECNICO
           path: product-docs
           default: true
           content:
