@@ -28,16 +28,3 @@ site:
           default: true
           content:
             directory: ./manual-tecnico/product-docs
-    - type: section
-      key: section-3
-      title: MANUAL TECNICO I
-      path: copy-of-manual-tecnico
-      description: ""
-      children:
-        - type: space
-          key: space-3
-          title: Documentation
-          path: documentation
-          default: true
-          content:
-            directory: ./documentation
